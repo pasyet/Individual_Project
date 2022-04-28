@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Spider-Man: No Way Home",
+        "synopsis": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "trailerUrl": "https://www.youtube.com/embed/JfVOs4VSpmA",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+        "rating": 8,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "The Batman",
+        "synopsis": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator's plans become clear, he must forge new relationships, unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.",
+        "trailerUrl": "https://www.youtube.com/embed/mqqft2x_Aa4",
+        "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2022/03/01/the-batman-2.jpeg?w=700&q=90",
+        "rating": 7,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Jujutsu Kaisen 0",
+        "synopsis": "Yuta Okkotsu gains control of an extremely powerful, cursed spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by sorcerers to help him control his power and keep an eye on him.",
+        "trailerUrl": "https://www.youtube.com/embed/-iun6KPT4SM",
+        "imgUrl": "https://cdn.cgv.id/uploads/movie/compressed/22004500.jpg",
+        "rating": 9,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Turning Red",
+        "synopsis": "Mei Lee is a 13-year-old girl who is torn between being her mother's obedient daughter and the chaos of her youth. As if that were not enough, when she gets too excited, she turns into a big red panda.",
+        "trailerUrl": "https://www.youtube.com/embed/XdKzUbAiswE",
+        "imgUrl": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2022/01/a042750fe9ec8b6e55c94b9e17fc7054.jpg",
+        "rating": 8,
+        "genreId": 4,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "synopsis": "Dr Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for his team to handle.",
+        "trailerUrl": "https://www.youtube.com/embed/aWzlQ2N6qqg",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+        "rating": "8",
+        "status": "active",
+        "genreId": "2",
+        "authorId":"1"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "synopsis": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "trailerUrl": "https://www.youtube.com/embed/JfVOs4VSpmA",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+        "rating": 8,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "The Batman",
+        "synopsis": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator's plans become clear, he must forge new relationships, unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.",
+        "trailerUrl": "https://www.youtube.com/embed/mqqft2x_Aa4",
+        "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2022/03/01/the-batman-2.jpeg?w=700&q=90",
+        "rating": 7,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Jujutsu Kaisen 0",
+        "synopsis": "Yuta Okkotsu gains control of an extremely powerful, cursed spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by sorcerers to help him control his power and keep an eye on him.",
+        "trailerUrl": "https://www.youtube.com/embed/-iun6KPT4SM",
+        "imgUrl": "https://cdn.cgv.id/uploads/movie/compressed/22004500.jpg",
+        "rating": 9,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Turning Red",
+        "synopsis": "Mei Lee is a 13-year-old girl who is torn between being her mother's obedient daughter and the chaos of her youth. As if that were not enough, when she gets too excited, she turns into a big red panda.",
+        "trailerUrl": "https://www.youtube.com/embed/XdKzUbAiswE",
+        "imgUrl": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2022/01/a042750fe9ec8b6e55c94b9e17fc7054.jpg",
+        "rating": 8,
+        "genreId": 4,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "synopsis": "Dr Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for his team to handle.",
+        "trailerUrl": "https://www.youtube.com/embed/aWzlQ2N6qqg",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+        "rating": "8",
+        "status": "active",
+        "genreId": "2",
+        "authorId":"1"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "synopsis": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "trailerUrl": "https://www.youtube.com/embed/JfVOs4VSpmA",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+        "rating": 8,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "The Batman",
+        "synopsis": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator's plans become clear, he must forge new relationships, unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.",
+        "trailerUrl": "https://www.youtube.com/embed/mqqft2x_Aa4",
+        "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2022/03/01/the-batman-2.jpeg?w=700&q=90",
+        "rating": 7,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Jujutsu Kaisen 0",
+        "synopsis": "Yuta Okkotsu gains control of an extremely powerful, cursed spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by sorcerers to help him control his power and keep an eye on him.",
+        "trailerUrl": "https://www.youtube.com/embed/-iun6KPT4SM",
+        "imgUrl": "https://cdn.cgv.id/uploads/movie/compressed/22004500.jpg",
+        "rating": 9,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Turning Red",
+        "synopsis": "Mei Lee is a 13-year-old girl who is torn between being her mother's obedient daughter and the chaos of her youth. As if that were not enough, when she gets too excited, she turns into a big red panda.",
+        "trailerUrl": "https://www.youtube.com/embed/XdKzUbAiswE",
+        "imgUrl": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2022/01/a042750fe9ec8b6e55c94b9e17fc7054.jpg",
+        "rating": 8,
+        "genreId": 4,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "synopsis": "Dr Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for his team to handle.",
+        "trailerUrl": "https://www.youtube.com/embed/aWzlQ2N6qqg",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+        "rating": "8",
+        "status": "active",
+        "genreId": "2",
+        "authorId":"1"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "synopsis": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "trailerUrl": "https://www.youtube.com/embed/JfVOs4VSpmA",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+        "rating": 8,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "The Batman",
+        "synopsis": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator's plans become clear, he must forge new relationships, unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.",
+        "trailerUrl": "https://www.youtube.com/embed/mqqft2x_Aa4",
+        "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2022/03/01/the-batman-2.jpeg?w=700&q=90",
+        "rating": 7,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Jujutsu Kaisen 0",
+        "synopsis": "Yuta Okkotsu gains control of an extremely powerful, cursed spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by sorcerers to help him control his power and keep an eye on him.",
+        "trailerUrl": "https://www.youtube.com/embed/-iun6KPT4SM",
+        "imgUrl": "https://cdn.cgv.id/uploads/movie/compressed/22004500.jpg",
+        "rating": 9,
+        "genreId": 2,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Turning Red",
+        "synopsis": "Mei Lee is a 13-year-old girl who is torn between being her mother's obedient daughter and the chaos of her youth. As if that were not enough, when she gets too excited, she turns into a big red panda.",
+        "trailerUrl": "https://www.youtube.com/embed/XdKzUbAiswE",
+        "imgUrl": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2022/01/a042750fe9ec8b6e55c94b9e17fc7054.jpg",
+        "rating": 8,
+        "genreId": 4,
+        "authorId": 1,
+        "status": "active"
+    },
+    {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "synopsis": "Dr Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for his team to handle.",
+        "trailerUrl": "https://www.youtube.com/embed/aWzlQ2N6qqg",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+        "rating": "8",
+        "status": "active",
+        "genreId": "2",
+        "authorId":"1"
+    }
+]
